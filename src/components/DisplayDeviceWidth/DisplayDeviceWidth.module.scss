@@ -1,0 +1,15 @@
+.main_container {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    .txt {
+        color: white;
+    }
+}
